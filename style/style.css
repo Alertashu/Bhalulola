@@ -322,6 +322,7 @@ body {
   .six .hat {
     width: 30px;
     top: -10px;
+    transform: translateX(345%);
   }
 
   .wish-hbd {
